@@ -1,12 +1,12 @@
 
 
-- [BASIC MODULES INSTALLATION](#basicmodules) 
+- [BASICINSTALLATION](#basicmodules) 
 - [FOR RUN](#forrun) 
 - [IMAGES](#images)
 - [CONTACT](#contact)
 
 
-# BASIC MODULES INSTALLATION 
+# BASICINSTALLATION 
 
 - `pkg update`
 - `pkg upgrade`
