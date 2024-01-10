@@ -2,7 +2,7 @@
 
 - [BASIC MODULES INSTALLATION]
 - [FOR RUN]
-- [IMAGES]
+- [IMAGES](#images)
 - [MY SOCIAL MEDIA]
 
 
