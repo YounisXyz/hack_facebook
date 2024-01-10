@@ -1,7 +1,7 @@
 
 
 - [BASICMODULES](#basicmodules) 
-- [FOR RUN](#forrun) 
+- [RUN](#forrun) 
 - [IMAGES](#images)
 - [CONTACT](#contact)
 
@@ -22,7 +22,7 @@
 - `idna certifi -y;pip install chardet urllib3`
 - `idna certifi requests`
 
-# FOR RUN
+# RUN
 
 - `cd`
 - `clear`
