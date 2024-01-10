@@ -6,7 +6,7 @@
 - [CONTACT](#contact)
 
 
-# BASICIMODULES
+# BASICMODULES
 
 - `pkg update`
 - `pkg upgrade`
