@@ -1,7 +1,7 @@
 
 
 - [BASICMODULES](#basicmodules) 
-- [RUN](#forrun) 
+- [RUN](#run) 
 - [IMAGES](#images)
 - [CONTACT](#contact)
 
