@@ -1,9 +1,9 @@
 
 
-- [BASIC MODULES INSTALLATION]
-- [FOR RUN]
+- [BASIC MODULES INSTALLATION](#basicmodules) 
+- [FOR RUN](#forrun) 
 - [IMAGES](#images)
-- [MY SOCIAL MEDIA]
+- [MY SOCIAL MEDIA](#my-contact)
 
 
 # BASIC MODULES INSTALLATION 
