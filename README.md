@@ -3,7 +3,7 @@
 - [BASIC MODULES INSTALLATION](#basicmodules) 
 - [FOR RUN](#forrun) 
 - [IMAGES](#images)
-- [MY-SOCIAL-MEDIA](#my-contact)
+- [MY-SOCIAL-MEDIA](#contact)
 
 
 # BASIC MODULES INSTALLATION 
